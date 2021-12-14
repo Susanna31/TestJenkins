@@ -7,6 +7,6 @@ public class SimpleClass {
 		SimpleClass sc = new SimpleClass();
 		int a = 3;
 		int b = 7
-		System.out.println("La somme de " + a + " et " + b + " est : " + sc.somme(a, b));
+		 System.out.println("La somme de " + a + " et " + b + " est : " + sc.somme(a, b));
 	}
 }
